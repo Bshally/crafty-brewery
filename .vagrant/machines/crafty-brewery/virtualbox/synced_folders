@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/crafty-brewery":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/crafty-brewery","hostpath":"/Users/bshallenberger/Desktop/Project-HQ/crafty-brewery","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/bshallenberger/Desktop/Project-HQ/crafty-brewery","disabled":false,"__vagrantfile":true}}}
